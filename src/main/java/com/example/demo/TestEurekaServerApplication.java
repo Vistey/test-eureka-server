@@ -6,8 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
  * http://blog.didispace.com/spring-cloud-starter-dalston-1/
- *
- * eureka服务段，@EnableEurekaServer启动服务
+ * eureka服务端，@EnableEurekaServer启动服务
  */
 
 @EnableEurekaServer
